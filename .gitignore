@@ -3,3 +3,6 @@ data/raw_images/*
 
 data/images/*
 !data/images/.gitkeep
+
+data/labels/*
+!data/labels/.gitkeep
