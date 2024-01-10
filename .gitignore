@@ -1,8 +1,2 @@
 data/raw_images/*
 !data/raw_images/.gitkeep
-
-data/images/*
-!data/images/.gitkeep
-
-data/labels/*
-!data/labels/.gitkeep
